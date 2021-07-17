@@ -11,7 +11,7 @@ Description: Bastion
 Parameters:
 
   NetworkStackName:
-    Description: Active CloudFormation stack containing VPC resources
+    Description: Active CloudFormation stack containing VPC resources1
     Type: String
     MinLength: 1
     MaxLength: 255
