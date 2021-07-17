@@ -8,7 +8,7 @@
       "ConstraintDescription": "Must be a valid availability zone"
     },
     "AvailabilityZone2": {
-      "Description": "The second availability zone in the region",
+      "Description": "The second availability zone in the regioon",
       "Type": "AWS::EC2::AvailabilityZone::Name",
       "ConstraintDescription": "Must be a valid availability zone"
     },
